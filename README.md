@@ -17,7 +17,7 @@ A ComfyUI custom node designed to apply minimal (or significant!) mathematical a
 1.  **Clone or Download:**
     *   **Option 1 (Git):** Navigate to your ComfyUI `custom_nodes` directory (`ComfyUI/custom_nodes/`) and run:
         ```bash
-        git clone <your_repository_url_here>
+        git clone https://github.com/Tenos-ai/Tenos-Chaotic-Conditioning-Discombobulator
         ```
         (Replace `<your_repository_url_here>` with the actual URL if you put this on GitHub/GitLab etc.)
     *   **Option 2 (Manual):** Download the `Tenos-Conditioning-Discombobulator.py` file. Place it directly into your `ComfyUI/custom_nodes/` directory.
